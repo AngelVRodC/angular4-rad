@@ -1,4 +1,6 @@
-# Angular4Rad
+# RAPID APPLICATION DEVELOPMENT WITH ANGULAR 4
+
+Enhanced development experience to Angular 4 projects
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.7.
 

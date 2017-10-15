@@ -1,6 +1,5 @@
-# RAPID APPLICATION DEVELOPMENT WITH ANGULAR 4
+# My Angular4 base project for rapid application development
 
-Enhanced development experience to Angular 4 projects
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.7.
 
